@@ -1,0 +1,10 @@
+Generated with the built-in image generation tool.
+
+Use case: logo-brand
+Asset type: final production iOS app icon, one full-bleed square 1024 x 1024 opaque PNG.
+Primary request: Design a much more refined icon for Bobo, a practical geometry and measurement calculator with a subtle cat identity. The symbol must feel like a beautifully designed precision tool.
+Subject and design: a single bold cobalt-blue triangular set square, upright with a horizontal bottom and a diagonal rising from bottom left to top right. Its broad continuous band has softly finished corners and a large open center. In the open center, a very subtle pair of small triangular cat ears is shaped by the edge of the negative space; this detail is architectural and understated. No eyes, face, nose or mouth. The overall first impression must be an elegant triangular geometry instrument, with the cat-ear discovery secondary. Include only three short finely cut ruler graduations in the bottom band, no numbers. Entire symbol is ONE coherent object, not a cat face with a triangle pasted on it.
+Style: premium minimalist industrial graphic, a nearly flat matte ceramic object with extremely shallow sculptural bevel and a delicate contact shadow. Mostly frontal view, no dramatic perspective. Bold solid shapes, pristine smooth surfaces and crisp precision edges, refined optical balance. Beautiful restrained composition, not a cute cartoon, not a busy illustration.
+Color: warm porcelain off-white full-bleed background, rich periwinkle cobalt blue instrument consistent with the app's #4C6FFF accent. No multicolor gradient background. Soft natural upper-left illumination, restrained depth.
+Composition: single centered symbol occupying 62–66 percent of square canvas width, spacious margins, optical center. Background fills all square corners, iOS will apply its own corner mask. Clear and recognizable at 40 pixels.
+Avoid: text, lettering, numbers, question marks, floating ornaments, sparkles, paws, faces, whiskers, extra tools, badges, external borders, rounded-square tile drawn inside the image, phone mockups, presentation boards, watermarks. Output one icon only.
